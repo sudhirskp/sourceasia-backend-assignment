@@ -37,7 +37,7 @@ src/
 │   ├── service/
 │   └── model/
 │
-├── common/
+├── Exceptions/
 └── resources/
 ```
 
