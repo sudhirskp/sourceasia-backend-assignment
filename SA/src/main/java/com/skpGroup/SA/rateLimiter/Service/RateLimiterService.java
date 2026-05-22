@@ -17,6 +17,9 @@ public class RateLimiterService {
 
     public boolean accept(String userId) {
 
+        userId = userId.trim()
+                .toLowerCase();
+
         UserStats stats =
                 storage.computeIfAbsent(
                         userId,
