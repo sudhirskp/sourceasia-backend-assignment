@@ -313,43 +313,43 @@ Production improvements:
 
 ## Rate Limit Success
 
-![Rate Success](./SA/screenshots/rateLimit_request.png)
+![Rate Success](SA/src/main/resources/screenshots/rateLimit_request.png)
 
 ---
 
 ## Rate Limit Exceeded
 
-![Rate Limit](./SA/screenshots/rateLimit_exit.png)
+![Rate Limit](SA/src/main/resources/screenshots/rateLimit_exit.png)
 
 ---
 
 ## Stats
 
-![Stats](./SA/screenshots/rateLimit_stats.png)
+![Stats](SA/src/main/resources/screenshots/rateLimit_stats.png)
 
 ---
 
 ## Product Create
 
-![Create Product](./SA/screenshots/products_post.png)
+![Create Product](SA/src/main/resources/screenshots/products_post.png)
 
 ---
 
 ## Product Pagination
 
-![Pagination](./SA/screenshots/product_list.png)
+![Pagination](SA/src/main/resources/screenshots/product_list.png)
 
 ---
 
 ## Product Detail
 
-![Product Detail](./SA/screenshots/Get_by_id.png)
+![Product Detail](SA/src/main/resources/screenshots/Get_by_id.png)
 
 ---
 
 ## Add Media
 
-![Add Media](./SA/screenshots/product_media.png)
+![Add Media](SA/src/main/resources/screenshots/product_media.png)
 
 ---
 
